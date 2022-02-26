@@ -3,6 +3,8 @@
 # Conway's Game of Life Project
 The proj1.py program is an automated version of the algorithm Conway's Game of Life, complete with a test library of pre-built board patterns and a menu interface. It reads patterns from text files found in the board_patterns_proj1 directory. Boards are printed in blue unicode dots and also shown in pure list format when the program is run in a terminal.
 
+Prompt:
+
 For this project, you will be coding a simple cellular automata game, called
 Conway's Game of Life. In this game, you have a grid where pixels can
 either be on or off (dead or alive). In the game, as time marches on, there
